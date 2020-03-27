@@ -29,8 +29,9 @@ body .landing-body {
 /* Profile Page */
 .profile-grid {
     display: grid;
-    grid-template-areas: 'top top' 'about about' 'exp edu' 'github github';
-    grid-gap: 1rem;
+    grid-template-areas: 'top top';
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .profile-top {
@@ -135,5 +136,18 @@ div .dp {
 
 div .github-repo {
     margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+/* Geeks */
+.search-geeks {
+    margin: 10px;
+}
+
+.search-geek-button {
+    margin-left: 10px;
+}
+.find-all-users-button {
+    margin-left: 10px;
     margin-top: 10px;
 }
