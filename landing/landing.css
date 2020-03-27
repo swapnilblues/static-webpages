@@ -1,0 +1,24 @@
+.wbdv-close {
+    color: white;
+}
+.wbdv-new-page-btn {
+    color: white;
+}
+
+
+.wbdv-arrow-link {
+    height: 15px;
+    width: 10px;
+}
+
+body {
+    background-image: url("../resources/images/landing-page-image.jpg");
+
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.center {
+    padding: 70px 70px;
+    text-align: center;
+}
